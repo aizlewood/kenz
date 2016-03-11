@@ -1,0 +1,23 @@
+{
+    "name": "clearleft/elf",
+    "description": "Your geeky little helper.",
+    "require": {
+        "php": ">=5.4.0",
+        "clearleft/elf-core": "~2.0"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "git@github.com:clearleft/elf-core.git"
+        }
+    ],
+    "authors": [
+        {
+            "name": "Mark Perkins",
+            "email": "mark@clearleft.com"
+        }
+    ],
+    "bin": [
+        "elf"
+    ]
+}

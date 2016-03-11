@@ -1,0 +1,11 @@
+#!/usr/bin/env php
+<?php
+
+declare(ticks = 1);
+
+date_default_timezone_set('Europe/London');
+
+require __DIR__ . '/vendor/autoload.php';
+
+$app = new Elf\Application(__DIR__);
+$app->run();
