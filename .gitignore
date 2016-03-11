@@ -1,0 +1,55 @@
+.vagrant
+node_modules
+/config/merged.config.yml
+/config/user.yml
+/config/sites.yml
+config.yml
+.devbox
+/.elf
+/vendor
+composer.lock
+/storage/*
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+*.bak
+
+# Logs and databases #
+######################
+logs/
+[Ll]ogs/
+*.log
+*.logs
+*.current
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
