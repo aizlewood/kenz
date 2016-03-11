@@ -1,5 +1,15 @@
-Title: Error
+Title:
+
+Error
 
 ----
 
-Text: The page has not been found.
+Description:
+
+This could be a pretty helpful error page.
+
+----
+
+Text:
+
+The page you've been looking for has not been found.

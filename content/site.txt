@@ -1,17 +1,21 @@
-Title: Kirby Starterkit
+Title:
+
+Baseblog
 
 ----
 
-Author: Bastian Allgeier GmbH
+Author:
+
+Sascha Lack
 
 ----
 
-Description: This is Kirby's Starterkit.
+Description:
+
+A nice & clean basic blog theme for Kirby
 
 ----
 
-Keywords: Kirby, CMS, file-based
+Info:
 
-----
-
-Copyright: © 2009-(date: Year) (link: http://getkirby.com text: Kirby)
+© 2012-(date: Year) (link: http://baseblog.sashtown.de text: Baseblog) by (link: http://sashtown.de text: Sascha Lack) | Based on (link: http://getkirby.com text: Kirby) | (link: feed text: RSS Feed)

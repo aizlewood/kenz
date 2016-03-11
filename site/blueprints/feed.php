@@ -1,8 +1,8 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-title: Default
-pages: true
-files: true
+title: Feed
+pages: false
+files: false
 fields:
 
   pageMeta:
@@ -15,11 +15,3 @@ fields:
     label: Description
     type:  text
     icon: info-circle
-
-  pageContent:
-    label: Page Content
-    type: headline
-  text:
-    label: Text
-    type:  textarea
-    icon:  file-text-o
